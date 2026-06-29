@@ -1,0 +1,14 @@
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\bin\Debug\net6.0-windows\ex2.exe
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\bin\Debug\net6.0-windows\ex2.deps.json
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\bin\Debug\net6.0-windows\ex2.runtimeconfig.json
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\bin\Debug\net6.0-windows\ex2.dll
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\bin\Debug\net6.0-windows\ex2.pdb
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\obj\Debug\net6.0-windows\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\obj\Debug\net6.0-windows\ex2.AssemblyInfoInputs.cache
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\obj\Debug\net6.0-windows\ex2.AssemblyInfo.cs
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\obj\Debug\net6.0-windows\ex2.csproj.CoreCompileInputs.cache
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\obj\Debug\net6.0-windows\ex2.dll
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\obj\Debug\net6.0-windows\refint\ex2.dll
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\obj\Debug\net6.0-windows\ex2.pdb
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\obj\Debug\net6.0-windows\ex2.genruntimeconfig.cache
+C:\Users\Zenilda\Desktop\DSTESTE\ex2\obj\Debug\net6.0-windows\ref\ex2.dll
