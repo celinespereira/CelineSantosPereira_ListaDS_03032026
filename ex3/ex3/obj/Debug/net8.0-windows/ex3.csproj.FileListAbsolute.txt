@@ -1,0 +1,16 @@
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\bin\Debug\net8.0-windows\ex3.exe
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\bin\Debug\net8.0-windows\ex3.deps.json
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\bin\Debug\net8.0-windows\ex3.runtimeconfig.json
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\bin\Debug\net8.0-windows\ex3.dll
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\bin\Debug\net8.0-windows\ex3.pdb
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\ex3.Form1.resources
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\ex3.csproj.GenerateResource.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\ex3.AssemblyInfoInputs.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\ex3.AssemblyInfo.cs
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\ex3.csproj.CoreCompileInputs.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\ex3.dll
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\refint\ex3.dll
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\ex3.pdb
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\ex3.genruntimeconfig.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex3\ex3\obj\Debug\net8.0-windows\ref\ex3.dll
