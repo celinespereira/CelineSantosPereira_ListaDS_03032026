@@ -1,0 +1,16 @@
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\bin\Debug\net8.0-windows\ex35.exe
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\bin\Debug\net8.0-windows\ex35.deps.json
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\bin\Debug\net8.0-windows\ex35.runtimeconfig.json
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\bin\Debug\net8.0-windows\ex35.dll
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\bin\Debug\net8.0-windows\ex35.pdb
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\ex35.Form1.resources
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\ex35.csproj.GenerateResource.cache
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\ex35.GeneratedMSBuildEditorConfig.editorconfig
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\ex35.AssemblyInfoInputs.cache
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\ex35.AssemblyInfo.cs
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\ex35.csproj.CoreCompileInputs.cache
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\ex35.dll
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\refint\ex35.dll
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\ex35.pdb
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\ex35.genruntimeconfig.cache
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex35\ex35\obj\Debug\net8.0-windows\ref\ex35.dll
