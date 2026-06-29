@@ -1,6 +1,6 @@
 ## Exercícios e Projetos de Programação
 
-Este repositório reúne as atividades desenvolvidas durante as aulas, com o objetivo de praticar lógica de programação e o desenvolvimento de aplicações utilizando C#.
+Este repositório reúne as atividades desenvolvidas durante as aulas, com o objetivo de praticar lógica de programação e o desenvolvimento de aplicações utilizando C#-Windows Forms.
 
 ## Conteúdo
 
@@ -56,7 +56,7 @@ ex25 -	Calcula e exibe o antecessor e o sucessor de um número inteiro.
 
 ex26 -	Calcula o quociente e o resto de uma divisão inteira.
 
-ex27 -	Calcula o novo saldo de uma conta com rendimento de 1%.
+ex27 -  Calcula o novo saldo de uma conta com rendimento de 1%.
 
 ex28 -	Calcula o perímetro, a área e a diagonal de um retângulo.
 
@@ -74,6 +74,7 @@ ex35 -	Inverte a ordem dos dígitos de um número de três algarismos.
 ## Tecnologias Utilizadas
 
 - C#
+- Windows Forms
 
 ## Autor
 
