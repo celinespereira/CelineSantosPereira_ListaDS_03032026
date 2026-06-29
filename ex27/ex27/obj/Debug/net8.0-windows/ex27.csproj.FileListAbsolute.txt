@@ -1,0 +1,16 @@
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\bin\Debug\net8.0-windows\ex27.exe
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\bin\Debug\net8.0-windows\ex27.deps.json
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\bin\Debug\net8.0-windows\ex27.runtimeconfig.json
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\bin\Debug\net8.0-windows\ex27.dll
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\bin\Debug\net8.0-windows\ex27.pdb
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\ex27.Form1.resources
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\ex27.csproj.GenerateResource.cache
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\ex27.GeneratedMSBuildEditorConfig.editorconfig
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\ex27.AssemblyInfoInputs.cache
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\ex27.AssemblyInfo.cs
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\ex27.csproj.CoreCompileInputs.cache
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\ex27.dll
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\refint\ex27.dll
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\ex27.pdb
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\ex27.genruntimeconfig.cache
+D:\2MD2\DESENVOLVIMENTO DE SISTEMAS\DS-03-03\ex27\ex27\obj\Debug\net8.0-windows\ref\ex27.dll
