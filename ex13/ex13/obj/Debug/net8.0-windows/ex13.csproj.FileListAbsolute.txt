@@ -1,0 +1,16 @@
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\bin\Debug\net8.0-windows\ex13.exe
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\bin\Debug\net8.0-windows\ex13.deps.json
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\bin\Debug\net8.0-windows\ex13.runtimeconfig.json
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\bin\Debug\net8.0-windows\ex13.dll
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\bin\Debug\net8.0-windows\ex13.pdb
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\ex13.Form1.resources
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\ex13.csproj.GenerateResource.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\ex13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\ex13.AssemblyInfoInputs.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\ex13.AssemblyInfo.cs
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\ex13.csproj.CoreCompileInputs.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\ex13.dll
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\refint\ex13.dll
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\ex13.pdb
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\ex13.genruntimeconfig.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex13\ex13\obj\Debug\net8.0-windows\ref\ex13.dll
