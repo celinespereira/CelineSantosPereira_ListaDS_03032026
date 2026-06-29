@@ -1,0 +1,16 @@
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\bin\Debug\net8.0-windows\ex24.exe
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\bin\Debug\net8.0-windows\ex24.deps.json
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\bin\Debug\net8.0-windows\ex24.runtimeconfig.json
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\bin\Debug\net8.0-windows\ex24.dll
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\bin\Debug\net8.0-windows\ex24.pdb
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\ex24.Form1.resources
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\ex24.csproj.GenerateResource.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\ex24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\ex24.AssemblyInfoInputs.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\ex24.AssemblyInfo.cs
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\ex24.csproj.CoreCompileInputs.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\ex24.dll
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\refint\ex24.dll
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\ex24.pdb
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\ex24.genruntimeconfig.cache
+C:\Users\Zenilda\Desktop\DS-03-03\ex24\ex24\obj\Debug\net8.0-windows\ref\ex24.dll
